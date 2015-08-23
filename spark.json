@@ -3,5 +3,5 @@
     "version": "0.1.0",
     "author": "Julien Couvreur <julien.couvreur@gmail.com>",
     "license": "TBD",
-    "description": ""
+    "description": "Simon game for Particle Photon with "Internet Button" shield."
 }

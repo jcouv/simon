@@ -6,7 +6,6 @@ Simon::Simon(){
 
 void Simon::setup() {
     b = InternetButton();
-asdf
     solution = new Position[0];
     solutionSize = 0;
 

@@ -208,7 +208,7 @@ void Simon::listenUp() {
      }
 }
 
-Position Simon::anyButtonOn() {
+Simon::Position Simon::anyButtonOn() {
     if (b.buttonOn(1)) {
         return Top; 
     }

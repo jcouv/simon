@@ -1,6 +1,6 @@
 #include "Simon.h"
  
-public Simon::Simon(){
+Simon::Simon(){
 
 }
 

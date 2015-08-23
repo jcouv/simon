@@ -107,15 +107,15 @@ void Simon::setColor() {
         return;    
     }
     if (difficulty < 15) { 
-        RGB.color(120, 120, 0);
+        RGB.color(0, 0, 255);
         return;
     }
     if (difficulty < 30) { 
-        RGB.color(0, 255, 0);
+        RGB.color(120, 120, 0);
         return;
     }
     
-    RGB.color(0, 0, 255);
+    RGB.color(0, 255, 0);
 }
 
 void Simon::start() {

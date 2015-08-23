@@ -17,8 +17,8 @@ void Simon::setup() {
     
     
     RGB.control(true);
-    this.b.begin();
-    this.b.allLedsOff();
+    b.begin();
+    b.allLedsOff();
 }
 
 void Simon::loop() {

@@ -1,5 +1,5 @@
-#include "simon.h"
-
+#include "Simon.h"
+ 
 public Simon::Simon(){
 
 }

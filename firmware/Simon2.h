@@ -1,6 +1,6 @@
 
 #include "InternetButton/InternetButton.h"
-
+ 
 class Simon {
  enum Position: int { Top = 0 , Right = 1, Bottom = 2, Left = 3, None = -1};
   
